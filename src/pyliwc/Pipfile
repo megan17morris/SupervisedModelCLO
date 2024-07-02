@@ -1,0 +1,27 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+pandas = "*"
+joblib = "*"
+nltk = "*"
+sphinx = "*"
+sphinx-autobuild = "*"
+sphinx-rtd-theme = "*"
+
+
+[dev-packages]
+
+sklearn = "*"
+scipy = "*"
+jupyter = "*"
+
+
+[requires]
+
+python_version = "3.6"
