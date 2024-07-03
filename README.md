@@ -1,3 +1,9 @@
+## This repository is an attempy to apply the techniques used to train binary classifiers of learning objectives to my own research project. 
+
+All notebooks and datasets are derived from Li and Rakovic's work as detailed below.
+
+
+
 # Dataset and source code for [Automatic Classification of Learning Objectives Based on Bloom’s Taxonomy](./Classification_of_Learning_Objectives_preprint.pdf) (EDM2022)
 
 ## 1. How the Dataset was Collected
