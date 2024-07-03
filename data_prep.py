@@ -1,9 +1,8 @@
 
 
-    
-def main():
+
     #clean_data(auto_questions='data/Autoquestionbank.xlsx', auto_LWIC='data/lwicauto.xlsx', oriiginal_questions='data/sample_full.csv', original_LWIC='data/lwicOriginal.xlsx')
-    import argparse
+import argparse
 import joblib
 from collections import Counter
 import xlrd
